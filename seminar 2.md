@@ -2,7 +2,9 @@
 
 ## Branch creating
 
+* *git branch - это команда, отображающая список существующих веток и отвечает в нем текущую;*
 
+* *git brunch "branch_name" - команда инициализирующая ветку с именем "branch_name*;
 
 ## Branch merging
 
